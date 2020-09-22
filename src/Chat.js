@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Chat.css";
-import { Avatar, IconButton, Button } from "@material-ui/core";
+import { Avatar, IconButton } from "@material-ui/core";
 import SearchOutlinedIcon from "@material-ui/icons/SearchOutlined";
 import AttachFileIcon from "@material-ui/icons/AttachFile";
 import MoreVertIcon from "@material-ui/icons/MoreVert";
